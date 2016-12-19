@@ -1,1 +1,2 @@
 C:\Users\Mirza Asad\Documents\GitHub\POS\POS_FinalProject\POS_FinalProject\bin\Debug\POS_FinalProject.exe.config
+C:\Users\Agha\Documents\GitHub\POS\POS_FinalProject\POS_FinalProject\bin\Debug\POS_FinalProject.exe.config
